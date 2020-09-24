@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - myCLass",
+            "request": "launch",
+            "mainClass": "myCLass",
+
+            "internalConsoleOptions": "openOnSessionStart",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - myClass",
+            "request": "launch",
+            "mainClass": "myClass",
+            "internalConsoleOptions": "openOnSessionStart",
+            "console": "externalTerminal"
+        }
+    ]
+}
