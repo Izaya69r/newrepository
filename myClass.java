@@ -7,7 +7,7 @@ public class myClass{
     String color;
 
     public String getInfo(){
-        return("Breed is " + breed + "size is " + size + "Age is " + age + "and color is " + color);
+        return(" Breed is " + breed + " size is " + size + " Age is " + age + " and color is " + color);
     }
 
     public static void main(String[] args){
@@ -22,3 +22,7 @@ public class myClass{
  
         }
 }
+
+    public class Dog {
+       
+    }
